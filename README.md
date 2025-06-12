@@ -1,5 +1,7 @@
 # 👋 Hey there, I'm Bhanuka Viraj!  
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4932953" style='border:none;'></iframe>
+
 🚀 Passionate about building innovative software solutions and exploring cutting-edge technologies.  
 💡 Always eager to learn, collaborate, and contribute to impactful projects.  
 
